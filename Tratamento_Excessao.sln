@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tratamento_Excessao", "Tratamento_Excessao\Tratamento_Excessao.csproj", "{8283C8C8-385D-4311-8BE9-51680E99CA14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8283C8C8-385D-4311-8BE9-51680E99CA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8283C8C8-385D-4311-8BE9-51680E99CA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8283C8C8-385D-4311-8BE9-51680E99CA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8283C8C8-385D-4311-8BE9-51680E99CA14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11B7855A-F3B1-4060-85F6-DA65C164E98B}
+	EndGlobalSection
+EndGlobal

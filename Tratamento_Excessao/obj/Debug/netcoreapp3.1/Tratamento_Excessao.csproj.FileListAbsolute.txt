@@ -1,0 +1,13 @@
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Tratamento_Excessao\Tratamento_Excessao\bin\Debug\netcoreapp3.1\Tratamento_Excessao.exe
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Tratamento_Excessao\Tratamento_Excessao\bin\Debug\netcoreapp3.1\Tratamento_Excessao.deps.json
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Tratamento_Excessao\Tratamento_Excessao\bin\Debug\netcoreapp3.1\Tratamento_Excessao.runtimeconfig.json
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Tratamento_Excessao\Tratamento_Excessao\bin\Debug\netcoreapp3.1\Tratamento_Excessao.runtimeconfig.dev.json
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Tratamento_Excessao\Tratamento_Excessao\bin\Debug\netcoreapp3.1\Tratamento_Excessao.dll
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Tratamento_Excessao\Tratamento_Excessao\bin\Debug\netcoreapp3.1\Tratamento_Excessao.pdb
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Tratamento_Excessao\Tratamento_Excessao\obj\Debug\netcoreapp3.1\Tratamento_Excessao.csprojAssemblyReference.cache
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Tratamento_Excessao\Tratamento_Excessao\obj\Debug\netcoreapp3.1\Tratamento_Excessao.csproj.CoreCompileInputs.cache
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Tratamento_Excessao\Tratamento_Excessao\obj\Debug\netcoreapp3.1\Tratamento_Excessao.AssemblyInfoInputs.cache
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Tratamento_Excessao\Tratamento_Excessao\obj\Debug\netcoreapp3.1\Tratamento_Excessao.AssemblyInfo.cs
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Tratamento_Excessao\Tratamento_Excessao\obj\Debug\netcoreapp3.1\Tratamento_Excessao.dll
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Tratamento_Excessao\Tratamento_Excessao\obj\Debug\netcoreapp3.1\Tratamento_Excessao.pdb
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Tratamento_Excessao\Tratamento_Excessao\obj\Debug\netcoreapp3.1\Tratamento_Excessao.genruntimeconfig.cache
